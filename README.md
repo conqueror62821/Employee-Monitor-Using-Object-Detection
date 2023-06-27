@@ -1,8 +1,5 @@
 # Employee Monitoring Using Object Detection
 
-Deep Learning Individual Project by Patrick Guillano P. La Rosa - March 03, 2022. The code, analysis, and the full report are included in the [Technical Report](https://github.com/pgplarosa/Employee-Monitoring-Using-Object-Detection/blob/main/md/Individual%20Project%20Report_La%20Rosa.md). If you have any questions regarding this study, please send me a message via  [LinkedIn](https://www.linkedin.com/in/patricklarosa/).
-
-
 <img src="./outputs/header.png" width=100% />
 
 ## Executive Summary
